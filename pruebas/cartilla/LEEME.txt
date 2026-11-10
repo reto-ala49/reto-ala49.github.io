@@ -1,0 +1,4 @@
+PROTOTIPO INDEPENDIENTE DE RETO ALA 49.
+Extraer el ZIP y abrir index.html en el navegador.
+No subirlo al repositorio de la web actual: es una prueba aparte.
+En la zona de pruebas se pueden simular insignias para los cinco volúmenes.

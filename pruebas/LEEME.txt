@@ -1,0 +1,3 @@
+PROTOTIPO DE PORTADA RETO ALA 49
+
+Abre index.html en un navegador. Pulsa EXPLORAR LOS VUELOS para ver el menú. El Volumen I enlaza a una copia sin modificar del cuestionario original; la Cartilla de Vuelos es una copia independiente del prototipo anterior, con su zona de pruebas. NO se guardan automáticamente los resultados del cuestionario en la cartilla: esa integración está pendiente. Este paquete no modifica la web publicada.

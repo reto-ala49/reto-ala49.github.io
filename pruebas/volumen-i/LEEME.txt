@@ -1,0 +1,6 @@
+RETO ALA 49 - VOLUMEN I (VERSIÓN DE REVISIÓN)
+
+La portada usa las tres imágenes originales facilitadas por el usuario.
+No se han modificado las cinco preguntas, la puntuación, las insignias ni los botones.
+Para probar: descomprimir y abrir index.html en un navegador.
+NO subir a GitHub hasta revisar y aprobar esta versión.
